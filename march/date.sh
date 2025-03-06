@@ -8,6 +8,11 @@ echo "current working directory: $current_directory"
 
 
 
+output:
+
+current date and time: Thu Mar  6 10:44:26 AM IST 2025
+current user: mca
+current working directory: /home/mca/clg
 
 
 

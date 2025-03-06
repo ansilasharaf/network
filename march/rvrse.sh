@@ -14,3 +14,7 @@ done
 echo "Reversed number : $reverse"
 
 
+output:
+enter a number: 
+1234
+Reversed number : 4321

@@ -14,3 +14,11 @@ for (( i=0; i<num; i++ ))
                  b=$next
          done
 echo
+
+
+output:
+
+enter the number of terms: 
+6
+fibonacci seires upto 6 terms
+0 1 1 2 3 5 

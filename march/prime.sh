@@ -21,3 +21,10 @@ do
 done
 echo
 
+output:
+
+enter start number: 
+50
+enter end number: 
+100
+53 59 61 67 71 73 79 83 89 97 

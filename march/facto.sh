@@ -11,3 +11,8 @@ done
 echo "factorial of $num is $fact "
 
 
+output:
+
+enter a number: 
+5
+factorial of 5 is 120 

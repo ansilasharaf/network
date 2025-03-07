@@ -20,3 +20,10 @@ read -p "enter an operator: " operator
 read -p "enter second number: " num2
 
 calculate $num1 "$operator" $num2
+
+output:
+
+enter first number: 3
+enter an operator: +
+enter second number: 5
+result: 8

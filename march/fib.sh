@@ -1,3 +1,5 @@
+#!/bin/bash
+
 echo "enter the number of terms: "
 read num
 

@@ -1,3 +1,5 @@
+#!/bin/bash
+
 echo "Enter a string:"
 read s
 if [[ "$s" == "$(echo "$s" | rev)" ]];

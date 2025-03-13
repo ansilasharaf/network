@@ -1,3 +1,5 @@
+#!/bin/bash
+
 validate_password() {
     local password=$1
     echo " $password "

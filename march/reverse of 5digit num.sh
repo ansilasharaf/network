@@ -1,3 +1,5 @@
+#!/bin/bash
+
 echo "Enter a 5-digit number:"
 read number
 

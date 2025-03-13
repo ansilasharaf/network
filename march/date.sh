@@ -1,3 +1,5 @@
+#!/bin/bash
+
 current_date=$(date)
 current_user=$(whoami)
 current_directory=$(pwd)

@@ -1,3 +1,5 @@
+#!/bin/bash
+
 echo "Enter the radius of the circle : "
 
 read r

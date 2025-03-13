@@ -1,3 +1,4 @@
+#!/bin/bash
 
 echo "enter start number: "
 read start

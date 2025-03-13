@@ -1,3 +1,5 @@
+#!/bin/bash
+
 
 calculate(){
         case $2 in
